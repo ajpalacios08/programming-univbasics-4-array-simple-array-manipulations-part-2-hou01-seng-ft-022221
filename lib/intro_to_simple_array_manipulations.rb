@@ -34,4 +34,12 @@ def using_insert(list_of_programming_languages, another_language)
    end
 instructors
 
-def 
+def using_delete_at(famous_robots, integer)
+  
+  
+  
+  
+  
+  
+  
+  
