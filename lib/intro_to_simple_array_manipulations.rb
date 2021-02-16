@@ -29,6 +29,6 @@ def using_insert(list_of_programming_languages, another_language)
  
  def using_delete(instructors, string)
    instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-   no_offense_steven = instructors.delete("Steven")
+   no_offense_steven = .delete(instructors, "Steven")
    instructors
  end
