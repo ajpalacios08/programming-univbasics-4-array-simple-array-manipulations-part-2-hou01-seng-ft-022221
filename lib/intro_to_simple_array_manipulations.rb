@@ -39,7 +39,6 @@ def using_delete_at(famous_robots, integer)
   delete_robocop = famous_robots.delete_at(2)
   delete_robocop
 end
-delete_robocop
   
   
   
