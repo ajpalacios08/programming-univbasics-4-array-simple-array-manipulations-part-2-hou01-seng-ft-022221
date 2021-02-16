@@ -33,4 +33,3 @@ def using_insert(list_of_programming_languages, another_language)
    no_offense_steven = instructors.delete("Steven")
    instructors
    end
-   instructors
