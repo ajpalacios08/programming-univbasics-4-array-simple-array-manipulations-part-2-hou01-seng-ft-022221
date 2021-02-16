@@ -27,9 +27,9 @@ def using_insert(list_of_programming_languages, another_language)
    flat_array = instruments.flatten
  end
  
+ instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
  def using_delete(instructors, string)
-   instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-   instructors.delete("Steven")
    no_offense_steven = instructors.delete("Steven")
    instructors
    end
+instructors
